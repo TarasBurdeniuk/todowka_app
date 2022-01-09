@@ -96,12 +96,12 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     fontSize: 24,
-    fontWeight: '600',
+    fontFamily: 'Kotyhoroshko-Bold',
   },
   sectionDescription: {
     marginTop: 8,
     fontSize: 18,
-    fontWeight: '400',
+    fontFamily: 'Kotyhoroshko-Regular',
   },
   highlight: {
     fontWeight: '700',
